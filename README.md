@@ -52,25 +52,6 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Mis Estadísticas
-
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KmiloVga&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Camilo" height="195px" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmiloVga&layout=compact&theme=tokyonight&hide_langs_below=1&count_private=true" alt="Lenguajes más usados" height="195px" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KmiloVga&theme=tokyonight" alt="Racha de contribuciones" />
-</p>
-
-<br>
-
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN4Zmt2YThzM2N5dGk5andzOWJwYnlrZDgwNGZlanA2ZDdocGltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Pq5Qi6CuWTprafYLT/giphy.gif" width="25px"> Conéctate conmigo
 
 <p align="center">
