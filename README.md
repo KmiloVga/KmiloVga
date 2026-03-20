@@ -55,7 +55,7 @@
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN4Zmt2YThzM2N5dGk5andzOWJwYnlrZDgwNGZlanA2ZDdocGltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Pq5Qi6CuWTprafYLT/giphy.gif" width="25px"> Conéctate conmigo
 
 <p align="center">
-  <a href="www.linkedin.com/in/camilo-vega-torres-783086188">
+  <a href="https://www.linkedin.com/in/dev-camilo-vega/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
