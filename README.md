@@ -15,7 +15,7 @@
 <br>
 
 - :student: Actualmente curso quinto semestre de **Desarrollo de Software** y soy aprendiz de **ADSO**.
-- :rocket: Próximo a iniciar mi **etapa productiva** en el sector tecnológico.
+- :rocket: Próximo a iniciar mi **etapa productiva** en el sector tecnológico. (16/06/2026)
 - :technologist: Apasionado por el **desarrollo Backend** y la resolución de problemas mediante código limpio.
 - :coffee: Mi stack principal se enfoca en **Java con Spring Boot** (MVC, Security, Thymeleaf).
 - :computer: Experiencia trabajando con **MySQL y MongoDB**, además de implementaciones de caché con **Redis**.
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 ### 📊 Extra
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> 
 
 ### 🚀 Próximos objetivos (Learning Path)
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -55,7 +55,7 @@
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN4Zmt2YThzM2N5dGk5andzOWJwYnlrZDgwNGZlanA2ZDdocGltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Pq5Qi6CuWTprafYLT/giphy.gif" width="25px"> Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kmilo-vga-783086188">
+  <a href="www.linkedin.com/in/camilo-vega-torres-783086188">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
