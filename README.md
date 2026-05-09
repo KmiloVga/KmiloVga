@@ -18,7 +18,7 @@
 - :rocket: Próximo a iniciar mi **etapa productiva** en el sector tecnológico. (16/06/2026)
 - :technologist: Apasionado por el **desarrollo Backend** y la resolución de problemas mediante código limpio.
 - :coffee: Mi stack principal se enfoca en **Java con Spring Boot** (MVC, Security, Thymeleaf).
-- :computer: Experiencia trabajando con **MySQL y MongoDB**, además de implementaciones de caché con **Redis**.
+- :computer: Experiencia trabajando con **MySQL y MongoDB**.
 - :unlock: Actualmente explorando el ecosistema de **Laravel** y mejorando mis habilidades en Frontend con **Bootstrap**.
 - :mag: Me encanta analizar código de otros desarrolladores para aprender nuevas perspectivas y lógicas.
 - :briefcase: Estoy abierto a **oportunidades de prácticas o primer empleo** donde pueda aportar y seguir creciendo.
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 
 ### 🗄️ Bases de Datos
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 
 ### 🎨 Frontend & UI
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
